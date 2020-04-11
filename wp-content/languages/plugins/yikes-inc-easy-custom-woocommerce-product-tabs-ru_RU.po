@@ -1,0 +1,328 @@
+# Translation of Plugins - Custom Product Tabs for WooCommerce - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Custom Product Tabs for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-03 16:29:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Custom Product Tabs for WooCommerce - Stable (latest release)\n"
+
+#: admin/class.premium.php:107
+msgid "Create global tabs, add tabs to products based on categories or tags, add tab content to search results, and more!"
+msgstr "Создавайте глобальные вкладки, добавляйте вкладки к товарам основанные на категориях или метках, проводите поиск по содержимому из вкладок и не только!"
+
+#: admin/page.yikes-woo-saved-tabs.php:5
+msgid "Custom Product Tabs for WooCommerce | Saved Tabs"
+msgstr "Пользовательские вкладки продуктов для WooCommerce | Сохраненные вкладки"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:69
+msgid "This is for your reference only."
+msgstr "Эта справочная информация только для вас."
+
+#: admin/page.yikes-woo-saved-tabs.php:56
+#: admin/page.yikes-woo-saved-tabs.php:76
+#: admin/page.yikes-woo-saved-tabs-single.php:66
+msgid "Tab Name"
+msgstr "Заголовок вкладки"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:8
+msgid "It looks like something went wrong. Please %1sgo back%2s. and try again"
+msgstr "Что-то пошло не так. Пожалуйста вернитесь назад и попробуйте снова."
+
+#: admin/page.support.php:6
+msgid "Custom Product Tabs for WooCommerce | Support"
+msgstr "Вкладки для пользовательских товаров для WooCommerce | Поддержка"
+
+#: admin/page.premium.php:86
+msgid "Premium support with a ticket form accessible directly from your dashboard"
+msgstr "Премиум-поддержка с формой для заявок прямо в консоли."
+
+#: admin/page.premium.php:84
+msgid " Premium Support"
+msgstr "Премиум-поддержка"
+
+#: admin/page.premium.php:80
+msgid "Make WordPress' and/or WooCommerce's search aware of Custom Product Tab information"
+msgstr "Сделать поиск в WordPress и/или WooCommerce информацией во вкладке «Пользовательский продукт»"
+
+#: admin/page.premium.php:79
+msgid "Remove the tab title from tab content site-wide without needing a filter"
+msgstr "Удалите заголовок вкладки из содержимого вкладки по всему сайту без использования фильтра"
+
+#: admin/page.premium.php:77
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/page.premium.php:73
+msgid "Assign saved tabs to products via the product's default bulk edit screen."
+msgstr "Назначайте сохраненные вкладки товарам с экрана массового редактирования."
+
+#: admin/page.premium.php:71
+msgid "WooCommerce Bulk Edit"
+msgstr "WooCommerce массовое изменение"
+
+#: admin/page.premium.php:66
+msgid "Assign taxonomy terms to tabs or set tabs as global so they apply to all products."
+msgstr "Назначьте термины таксономии вкладкам или установите вкладки как глобальные, чтобы они применялись ко всем продуктам."
+
+#: admin/page.premium.php:62
+msgid "Global Tabs & Taxonomy Tabs"
+msgstr "Глобальные вкладки и вкладки таксономий"
+
+#: admin/page.premium.php:56
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>And More!</strong>"
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>И не только!</strong>"
+
+#: admin/page.premium.php:50
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Premium Support</strong> - Get support via our form directly from your dashboard."
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Премиум поддержка</strong> - Воспользуйтесь формой поддержки из вашей консоли."
+
+#: admin/page.premium.php:44
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Search</strong> - Make tab content searchable by WordPress' standard search or WooCommerce's search widget."
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Поиск</strong> - Сделайте содержимое вкладки доступным для поиска с помощью стандартного поиска WordPress или поискового виджета WooCommerce."
+
+#: admin/page.premium.php:38
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>WooCommerce Bulk Edit</strong> - Assign tabs to products via WooCommerce's bulk editor."
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>WooCommerce Bulk Edit</strong> - Назначьте вкладки для продуктов через редактор WooCommerce."
+
+#: admin/page.premium.php:32
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Category/Tag Tabs</strong> - Assign tabs to products by category or tag."
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Вкладки/Категории/Теги</strong> - Назначьте вкладки для товаров по категориям или тегам."
+
+#: admin/page.premium.php:26
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Global Tabs</strong> - Apply saved tabs to all of your products."
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Глобальные вкладки</strong> - Применить сохраненные вкладки ко всем вашим продуктам."
+
+#: admin/page.premium.php:19
+msgid "Upgrade to %1sCustom Product Tabs Pro%2s for complete control of Tabs and enhanced features."
+msgstr "Обновитесь до %1sCustom Product Tabs Pro%2s для полного контроля над вкладками и расширенным функционалом."
+
+#: admin/page.premium.php:13
+msgid "Upgrade to Pro"
+msgstr "Улучшить до Pro"
+
+#: admin/page.premium.php:5
+msgid "Custom Product Tabs for WooCommerce | Go Pro"
+msgstr "Пользовательские вкладки продуктов для WooCommerce | Go Pro"
+
+#: admin/class.yikes-woo-saved-tabs.php:502
+#: admin/class.yikes-woo-saved-tabs.php:503
+msgid "Custom Product Tabs"
+msgstr "Пользовательские вкладки продукта"
+
+#: admin/class.yikes-woo-saved-tabs.php:288
+msgid "Uh oh. Something went wrong."
+msgstr "Упс! Что-то пошло не так."
+
+#: admin/class.yikes-woo-saved-tabs.php:284
+msgid "Could not find the tab. Please try again."
+msgstr "Вкладка не найдена. Попробуйте снова."
+
+#: admin/class.support.php:96
+msgid "Submit a Support Request"
+msgstr "Отправить запрос в поддержку"
+
+#: admin/class.support.php:89
+msgid "If you need help with free Custom Product Tabs, please post questions to %1sour support forum on the WordPress Plugin Directory%2s. We aim to respond to support requests within a week."
+msgstr "Если вам нужна помощь с бесплатными пользовательскими вкладками продуктов, отправляйте вопросы на форум поддержки %1 в каталоге плагинов WordPress %2s. Мы стараемся отвечать на запросы поддержки в течение недели."
+
+#: admin/class.support.php:84
+msgid "WordPress.org Support Forums"
+msgstr "Форумы поддержки WordPress.org"
+
+#: admin/class.support.php:75
+msgid "Custom Product Tabs Pro users qualify for premium support. Check out %1sCustom Product Tabs Pro%2s!"
+msgstr "Пользовательские вкладки Product Pro пользователи имеют право на премиум-поддержку. Проверьте %1s Пользовательские вкладки продукта Pro %2s!"
+
+#: admin/class.support.php:68
+msgid "Before submitting a support request, please visit our %1sKnowledge Base%2s where we have step-by-step guides and troubleshooting help."
+msgstr "Перед отправкой запроса в службу поддержки посетите нашу %1sБаза знаний%2s, где у нас есть пошаговые руководства и помощь в устранении неполадок."
+
+#: admin/class.support.php:41 admin/class.support.php:42
+msgid "Support"
+msgstr "Поддержка"
+
+#: admin/class.premium.php:109
+msgid "Custom Product Tabs Pro"
+msgstr "Custom Product Tabs Pro"
+
+#: admin/class.premium.php:106
+msgid "Check out Custom Product Tabs Pro!"
+msgstr "Попробуйте Custom Product Tabs Pro!"
+
+#: admin/class.premium.php:96
+msgid "Tweet"
+msgstr "Отправить в Твиттер"
+
+#: admin/class.premium.php:92
+msgid "Tweet about us!"
+msgstr "Рассказать о нас в Твиттер!"
+
+#: admin/class.premium.php:48 admin/class.premium.php:49
+msgid "Go Pro"
+msgstr "Перейти на Pro"
+
+#: admin/class.premium.php:80
+msgid "Leave a review!"
+msgstr "Оставьте отзыв!"
+
+#: admin/class.yikes-woo-generate-html.php:285
+msgid "Override Saved Tab"
+msgstr "Переопределить сохраненную вкладку"
+
+#: admin/class.yikes-woo-generate-html.php:166
+msgid " Override Saved Tab"
+msgstr "Переназначить сохраненную вкладку"
+
+#: admin/class.yikes-woo-saved-tabs.php:63 admin/class.yikes-woo-tabs.php:62
+#: admin/class.yikes-woo-tabs.php:71
+msgid "Sorry! An error has occurred while trying to retrieve the editor. Please refresh the page and try again."
+msgstr "Произошла ошибка при загрузке редактора. Пожалуйста, обновите страницу и попробуйте еще раз."
+
+#: admin/page.yikes-woo-saved-tabs.php:133
+msgid "There are no saved tabs. Add one!"
+msgstr "Вкладок пока нет. Добавьте новую!"
+
+#: admin/page.yikes-woo-saved-tabs.php:110
+#: admin/page.yikes-woo-saved-tabs.php:122
+msgid "Edit Tab"
+msgstr "Изменить вкладку"
+
+#: admin/page.yikes-woo-saved-tabs.php:59
+#: admin/page.yikes-woo-saved-tabs.php:79
+msgid "Tab Content Preview"
+msgstr "Предварительный просмотр содержимого вкладки"
+
+#: admin/page.yikes-woo-saved-tabs.php:49
+#: admin/page.yikes-woo-saved-tabs.php:69
+msgid "Select All"
+msgstr "Выбрать все"
+
+#: admin/page.yikes-woo-saved-tabs.php:41
+msgid "Apply"
+msgstr "Применить"
+
+#: admin/page.yikes-woo-saved-tabs.php:39
+msgid "Delete"
+msgstr "Удалить"
+
+#: admin/page.yikes-woo-saved-tabs.php:38
+msgid "Bulk Actions"
+msgstr "Массовые действия"
+
+#: admin/page.yikes-woo-saved-tabs.php:36
+msgid "Select bulk action"
+msgstr "Выбрать массовое действие"
+
+#: admin/page.yikes-woo-saved-tabs.php:25
+msgid "Create and save tabs you can add to multiple products."
+msgstr "Создавайте и сохраняйте вкладки, которые вы можете добавить для нескольких продуктов товара."
+
+#: admin/page.yikes-woo-saved-tabs.php:16
+msgid "Tab deleted!"
+msgstr "Вкладка удалена!"
+
+#: admin/page.yikes-woo-saved-tabs.php:7
+#: admin/page.yikes-woo-saved-tabs-single.php:29
+msgid "Add Tab"
+msgstr "Добавить вкладку"
+
+#: admin/page.yikes-woo-saved-tabs.php:113
+#: admin/page.yikes-woo-saved-tabs-single.php:91
+msgid "Delete Tab"
+msgstr "Удалить вкладку"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:87
+msgid "Save Tab"
+msgstr "Сохранить вкладку"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:75
+msgid "Tab Content"
+msgstr "Содержимое вкладки"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:36
+msgid "Go Back to All Saved Tabs list"
+msgstr "Вернуться ко всем сохраненым вкладкам"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:46
+msgid "Any updates made here will apply to all products using this tab."
+msgstr "Все сделанные здесь изменения будут применены для всех товаров содержащих эту вкладку."
+
+#: admin/class.yikes-woo-generate-html.php:341
+msgid "Add a Saved Tab"
+msgstr "Добавить сохраненную вкладку"
+
+#: admin/class.yikes-woo-generate-html.php:336
+msgid "Add a Tab"
+msgstr "Добавить вкладку"
+
+#: admin/class.yikes-woo-generate-html.php:164
+#: admin/class.yikes-woo-generate-html.php:284
+msgid "Check this box to override the saved tab"
+msgstr "Установите этот флажок, чтобы переопределить сохраненную вкладку"
+
+#: admin/class.yikes-woo-generate-html.php:137
+msgid "For help using Custom Tabs please visit our <a href='https://yikesplugins.com/support/knowledge-base/product/easy-custom-product-tabs-for-woocommerce/' target='_blank'>Knowledge Base</a>"
+msgstr "Для получения помощи по использованию пользовательских вкладок посетите нашу <a href='https://yikesplugins.com/support/knowledge-base/product/easy-custom-product-tabs-for-woocommerce/' target='_blank'>Базу знаний</a>"
+
+#: admin/class.yikes-woo-generate-html.php:71
+#: admin/class.yikes-woo-generate-html.php:215
+msgid "Custom Tab Title"
+msgstr "Заголовок пользовательской вкладки"
+
+#. Author of the plugin
+msgid "YIKES, Inc."
+msgstr "YIKES, Inc."
+
+#. Description of the plugin
+msgid "Extend WooCommerce to add and manage custom product tabs. Create as many product tabs as needed per product."
+msgstr "Расширение для WooCommerce позволяет добавлять и управлять собственными вкладками товаров. Создавайте столько вкладок для каждого товара, сколько нужно."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.yikesinc.com"
+msgstr "http://www.yikesinc.com"
+
+#. Plugin Name of the plugin
+msgid "Custom Product Tabs for WooCommerce"
+msgstr "Custom Product Tabs for WooCommerce"
+
+#: admin/class.yikes-woo-generate-html.php:231
+#: admin/class.yikes-woo-generate-html.php:269
+msgid "HTML and text to display."
+msgstr "HTML и текст который будет отображаться."
+
+#: admin/class.yikes-woo-generate-html.php:230
+#: admin/class.yikes-woo-generate-html.php:269
+msgid "Content"
+msgstr "Текст записи"
+
+#: admin/page.yikes-woo-saved-tabs.php:53
+#: admin/page.yikes-woo-saved-tabs.php:73
+#: admin/page.yikes-woo-saved-tabs-single.php:58
+#: admin/class.yikes-woo-generate-html.php:71
+#: admin/class.yikes-woo-generate-html.php:215
+msgid "Tab Title"
+msgstr "Название закладки"
+
+#: admin/class.yikes-woo-generate-html.php:180
+#: admin/class.yikes-woo-generate-html.php:254
+#: admin/class.yikes-woo-generate-html.php:296
+msgid "Remove Tab"
+msgstr "Удалить вкладку"
+
+#: admin/class.yikes-woo-generate-html.php:139
+msgid "Help Me!"
+msgstr "Помогите мне!"
+
+#: admin/class.yikes-woo-tabs.php:88
+msgid "Custom Tabs"
+msgstr "Собственные закладки"
+
+#: yikes-inc-easy-custom-woocommerce-product-tabs.php:52
+msgid "Custom Product Tabs for WooCommerce could not be activated because WooCommerce is not installed and active."
+msgstr "Плагин Custom Product Tabs for WooCommerce не может быть активирован, так как плагин WooCommerce не установлен или не активен."
